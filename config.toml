@@ -1,0 +1,61 @@
+baseurl         = "https://805bluebell.github.io/blog"
+theme           = "casper-two"
+languageCode    = "en-US"
+disqusShortname = ""
+paginate        = 6
+#SectionPagesMenu = "main"
+
+[params]
+  title       = "My blog"
+  subtitle    = "Pankaj's blog"
+
+  cover       = ""
+  description = "Here is a description of your site."
+  metaDescription = ""
+  googleAnalytics = ""
+  customCSS = []
+  RSSLink = ""
+
+  twitterName = "0pankajkumar"
+  fbName = "pankajwillkillu"
+  githubName = "805bluebell"
+
+  logo = "hugo-logo.png"
+  orgName = "EM"
+  orgWebsite = "https://www.telematika.org"
+  orgDescription = "Here is a description placeholder for your org"
+
+  author = "PK"
+  authorAvatar = "img/ghost-icon.png"
+  authorLocation = "Mumbai, India"
+  authorWebsite = "https://eueung.github.io"
+  authorDescription = "Softeware developer"
+
+  pageNotFoundTitle = "404 - Page not found"
+  publishDir = "docs"
+  
+  #casper or caspertwo
+  singleViewStyle = "casper"
+
+[permalinks]
+  post = "/:slug/"
+
+[[menu.main]]
+  name = "Home"
+  url = "/"
+  weight = 200
+
+[[menu.main]]
+  name = "Projects"
+  url = "/tags/projects/"
+  weight = 100
+
+[[menu.main]]
+  name = "My Life"
+  url = "/categories/mylife/"
+  weight = 99
+
+[[menu.main]]
+  name = "External"
+  url = "https://google.com/"
+  weight = 95
