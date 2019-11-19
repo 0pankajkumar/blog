@@ -1,5 +1,6 @@
-baseurl         = "https://805bluebell.github.io/blog"
+baseurl         = "https://805bluebell.github.io/blog/. "
 theme           = "casper-two"
+publishDir      = "docs"
 languageCode    = "en-US"
 disqusShortname = ""
 paginate        = 6
@@ -32,7 +33,7 @@ paginate        = 6
   authorDescription = "Softeware developer"
 
   pageNotFoundTitle = "404 - Page not found"
-  publishDir = "docs"
+  
   
   #casper or caspertwo
   singleViewStyle = "casper"
