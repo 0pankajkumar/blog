@@ -1,4 +1,4 @@
-baseurl         = "/"
+baseurl         = "https://805bluebell.github.io/blog/"
 theme           = "casper-two"
 publishDir      = "docs"
 languageCode    = "en-US"
