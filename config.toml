@@ -1,40 +1,38 @@
-baseurl         = "https://805bluebell.github.io/blog"
+baseurl         = "/"
 theme           = "casper-two"
-publishDir      = "docs"
 languageCode    = "en-US"
 disqusShortname = ""
 paginate        = 6
 #SectionPagesMenu = "main"
 
 [params]
-  title       = "My blog"
-  subtitle    = "Pankaj's blog"
+  title       = "Hugo Casper Two"
+  subtitle    = "Port of Casper 2.x for Hugo"
 
-  cover       = ""
+  cover       = "img/blog-cover.jpg"
   description = "Here is a description of your site."
   metaDescription = ""
   googleAnalytics = ""
   customCSS = []
   RSSLink = ""
 
-  twitterName = "0pankajkumar"
-  fbName = "pankajwillkillu"
-  githubName = "805bluebell"
+  twitterName = "faketryghost"
+  fbName = "fakeghost"
+  githubName = "eueung"
 
   logo = "hugo-logo.png"
   orgName = "EM"
   orgWebsite = "https://www.telematika.org"
   orgDescription = "Here is a description placeholder for your org"
 
-  author = "PK"
+  author = "EM"
   authorAvatar = "img/ghost-icon.png"
-  authorLocation = "Mumbai, India"
+  authorLocation = "Bandung, ID"
   authorWebsite = "https://eueung.github.io"
-  authorDescription = "Softeware developer"
+  authorDescription = "Describe yourself.."
 
   pageNotFoundTitle = "404 - Page not found"
-  
-  
+
   #casper or caspertwo
   singleViewStyle = "casper"
 
@@ -52,8 +50,8 @@ paginate        = 6
   weight = 100
 
 [[menu.main]]
-  name = "My Life"
-  url = "/categories/mylife/"
+  name = "Food"
+  url = "/categories/food/"
   weight = 99
 
 [[menu.main]]
