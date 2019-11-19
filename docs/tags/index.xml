@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on </title>
-    <link>https://805bluebell.github.io/blog/.%20/tags/</link>
+    <link>https://805bluebell.github.io/blog/tags/</link>
     <description>Recent content in Tags on </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
     <lastBuildDate>Tue, 19 Nov 2019 12:26:37 +0530</lastBuildDate>
     
-	<atom:link href="https://805bluebell.github.io/blog/.%20/tags/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://805bluebell.github.io/blog/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>projects</title>
-      <link>https://805bluebell.github.io/blog/.%20/tags/projects/</link>
+      <link>https://805bluebell.github.io/blog/tags/projects/</link>
       <pubDate>Tue, 19 Nov 2019 12:26:37 +0530</pubDate>
       
-      <guid>https://805bluebell.github.io/blog/.%20/tags/projects/</guid>
+      <guid>https://805bluebell.github.io/blog/tags/projects/</guid>
       <description></description>
     </item>
     
