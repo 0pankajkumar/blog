@@ -26,13 +26,13 @@ paginate        = 6
   orgWebsite = "https://www.telematika.org"
   orgDescription = "Here is a description placeholder for your org"
 
-  author = "EM"
-  authorAvatar = "img/ghost-icon.png"
-  authorLocation = "Bandung, ID"
-  authorWebsite = "https://eueung.github.io"
-  authorDescription = "Describe yourself.."
+  author = "Pankaj Kumar"
+  authorAvatar = "img/profile-pic.jpg"
+  authorLocation = "Mumbai, India"
+  authorWebsite = "https://805bluebell.github.io/"
+  authorDescription = "Aspiring software engineer"
 
-  pageNotFoundTitle = "404 - Page not found"
+  pageNotFoundTitle = "404 - Oh snap !"
 
   #casper or caspertwo
   singleViewStyle = "casper"
