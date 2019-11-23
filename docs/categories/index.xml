@@ -20,5 +20,23 @@
       <description></description>
     </item>
     
+    <item>
+      <title>programming</title>
+      <link>https://805bluebell.github.io/blog/categories/programming/</link>
+      <pubDate>Tue, 19 Nov 2019 11:56:35 +0530</pubDate>
+      
+      <guid>https://805bluebell.github.io/blog/categories/programming/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>technology</title>
+      <link>https://805bluebell.github.io/blog/categories/technology/</link>
+      <pubDate>Tue, 19 Nov 2019 11:56:35 +0530</pubDate>
+      
+      <guid>https://805bluebell.github.io/blog/categories/technology/</guid>
+      <description></description>
+    </item>
+    
   </channel>
 </rss>

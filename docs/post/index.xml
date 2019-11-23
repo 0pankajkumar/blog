@@ -26,7 +26,8 @@
       <pubDate>Tue, 19 Nov 2019 11:56:35 +0530</pubDate>
       
       <guid>https://805bluebell.github.io/blog/first-post/</guid>
-      <description></description>
+      <description>So, one day I was using too much list &amp;amp; wondered why we can’t use dict all the time when it has O(1) time complexity. Instead of pondering I tried to measure things myself &amp;amp; see. I ended up measuring access time in a dict &amp;amp; in a list. Below is the code.
+import time d = dict() for i in range(10000000): d[i] = True e = list() for i in range(10000000): e.</description>
     </item>
     
   </channel>

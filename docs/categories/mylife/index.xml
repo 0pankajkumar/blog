@@ -20,14 +20,5 @@
       <description>Second post</description>
     </item>
     
-    <item>
-      <title>First Post</title>
-      <link>https://805bluebell.github.io/blog/first-post/</link>
-      <pubDate>Tue, 19 Nov 2019 11:56:35 +0530</pubDate>
-      
-      <guid>https://805bluebell.github.io/blog/first-post/</guid>
-      <description></description>
-    </item>
-    
   </channel>
 </rss>
