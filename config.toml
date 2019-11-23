@@ -1,5 +1,5 @@
 baseurl         = "https://805bluebell.github.io/blog/"
-theme           = "casper-two"
+theme           = "hugo-casper-two"
 publishDir      = "docs"
 languageCode    = "en-US"
 disqusShortname = ""
