@@ -4,37 +4,12 @@
   
   <url>
     <loc>https://805bluebell.github.io/blog/</loc>
-    <lastmod>2019-11-19T12:26:37+05:30</lastmod>
+    <lastmod>2019-11-04T11:56:35+05:30</lastmod>
   </url>
   
   <url>
     <loc>https://805bluebell.github.io/blog/categories/</loc>
-    <lastmod>2019-11-19T12:26:37+05:30</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://805bluebell.github.io/blog/categories/mylife/</loc>
-    <lastmod>2019-11-19T12:26:37+05:30</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://805bluebell.github.io/blog/post/</loc>
-    <lastmod>2019-11-19T12:26:37+05:30</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://805bluebell.github.io/blog/tags/projects/</loc>
-    <lastmod>2019-11-19T12:26:37+05:30</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://805bluebell.github.io/blog/second-post/</loc>
-    <lastmod>2019-11-19T12:26:37+05:30</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://805bluebell.github.io/blog/tags/</loc>
-    <lastmod>2019-11-19T12:26:37+05:30</lastmod>
+    <lastmod>2019-11-04T11:56:35+05:30</lastmod>
   </url>
   
   <url>
@@ -58,6 +33,11 @@
   </url>
   
   <url>
+    <loc>https://805bluebell.github.io/blog/post/</loc>
+    <lastmod>2019-11-04T11:56:35+05:30</lastmod>
+  </url>
+  
+  <url>
     <loc>https://805bluebell.github.io/blog/categories/programming/</loc>
     <lastmod>2019-11-04T11:56:35+05:30</lastmod>
   </url>
@@ -68,8 +48,38 @@
   </url>
   
   <url>
+    <loc>https://805bluebell.github.io/blog/tags/</loc>
+    <lastmod>2019-11-04T11:56:35+05:30</lastmod>
+  </url>
+  
+  <url>
     <loc>https://805bluebell.github.io/blog/categories/technology/</loc>
     <lastmod>2019-11-04T11:56:35+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://805bluebell.github.io/blog/tags/c&#43;&#43;/</loc>
+    <lastmod>2019-10-21T10:16:17+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://805bluebell.github.io/blog/tags/codechef/</loc>
+    <lastmod>2019-10-21T10:16:17+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://805bluebell.github.io/blog/tags/coding-competitions/</loc>
+    <lastmod>2019-10-21T10:16:17+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://805bluebell.github.io/blog/tags/competitive-programming/</loc>
+    <lastmod>2019-10-21T10:16:17+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://805bluebell.github.io/blog/python-for-competitive-programming/</loc>
+    <lastmod>2019-10-21T10:16:17+05:30</lastmod>
   </url>
   
 </urlset>
