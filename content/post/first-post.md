@@ -1,6 +1,6 @@
 ---
-title: "First Post"
-date: 2019-11-19T11:56:35+05:30
+title: "Ditch List, use Dict in Python"
+date: 2019-11-04T11:56:35+05:30
 draft: false
 image: "img/twin-towers.jpg"
 tags: ["python", "dict", "list", "hash"]
@@ -35,7 +35,7 @@ print("Time taken by list : ", (t2 - t1))
 
 Now time to decide the winner and the results are as follows.
 
-```python
+```bash
 C:\Users\pankaj.kum\Documents\python-scripts>python dict_vs_list.py
 Found :)
 Time taken by dict :  0.0
