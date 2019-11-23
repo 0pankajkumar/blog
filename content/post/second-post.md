@@ -2,6 +2,7 @@
 title: "Python for competitive programming"
 date: 2019-10-21T10:16:17+05:30
 draft: false
+image: "https://s3.amazonaws.com/codechef_shared/download/small-banner/COOK111B/1571225889.jpg"
 tags: ["competitive programming", "codechef", "coding competitions", "c++", "python"]
 categories: ["technology", "programming"]
 ---
