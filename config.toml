@@ -7,24 +7,24 @@ paginate        = 6
 #SectionPagesMenu = "main"
 
 [params]
-  title       = "Hugo Casper Two"
-  subtitle    = "Port of Casper 2.x for Hugo"
+  title       = "Another blog"
+  subtitle    = "Flowing thoughts of restless mind"
 
-  cover       = "img/blog-cover.jpg"
-  description = "Here is a description of your site."
+  cover       = "img/branches-cold-conifers.jpg"
+  description = "Various ideas written with best of wits amassed"
   metaDescription = ""
   googleAnalytics = ""
   customCSS = []
   RSSLink = ""
 
-  twitterName = "faketryghost"
-  fbName = "fakeghost"
-  githubName = "eueung"
+  twitterName = "0pankajkumar"
+  fbName = "pankajwillkillu"
+  githubName = "805bluebell"
 
   logo = "hugo-logo.png"
-  orgName = "EM"
-  orgWebsite = "https://www.telematika.org"
-  orgDescription = "Here is a description placeholder for your org"
+  orgName = "PK"
+  orgWebsite = "https://805bluebell.github.io/blog"
+  orgDescription = "The one man army"
 
   author = "Pankaj Kumar"
   authorAvatar = "img/profile-pic.jpg"
