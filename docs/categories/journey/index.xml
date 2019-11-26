@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>journey on </title>
+    <link>https://805bluebell.github.io/blog/categories/journey/</link>
+    <description>Recent content in journey on </description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-US</language>
+    <lastBuildDate>Tue, 26 Nov 2019 10:14:07 +0530</lastBuildDate>
+    
+	<atom:link href="https://805bluebell.github.io/blog/categories/journey/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Python for competitive programming</title>
+      <link>https://805bluebell.github.io/blog/python-for-competitive-programming/</link>
+      <pubDate>Tue, 26 Nov 2019 10:14:07 +0530</pubDate>
+      
+      <guid>https://805bluebell.github.io/blog/python-for-competitive-programming/</guid>
+      <description> Started with Journey :P </description>
+    </item>
+    
+  </channel>
+</rss>

@@ -56,6 +56,6 @@ paginate        = 6
   weight = 99
 
 [[menu.main]]
-  name = "External"
-  url = "https://google.com/"
+  name = "About Me"
+  url = "https://805bluebell.github.io/"
   weight = 95
