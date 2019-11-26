@@ -1,5 +1,5 @@
 ---
-title: "Python for competitive programming"
+title: "Journey 1"
 date: 2019-11-26T10:14:16+05:30
 draft: false
 image: ""
