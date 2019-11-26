@@ -1,5 +1,5 @@
 ---
-title: "Python for competitive programming"
+title: "Lessions of Programming - I"
 date: 2019-11-26T10:14:07+05:30
 draft: false
 image: ""
