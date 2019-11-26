@@ -6,10 +6,19 @@
     <description>Recent content on </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
-    <lastBuildDate>Mon, 04 Nov 2019 11:56:35 +0530</lastBuildDate>
+    <lastBuildDate>Tue, 26 Nov 2019 10:14:07 +0530</lastBuildDate>
     
 	<atom:link href="https://805bluebell.github.io/blog/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Python for competitive programming</title>
+      <link>https://805bluebell.github.io/blog/python-for-competitive-programming/</link>
+      <pubDate>Tue, 26 Nov 2019 10:14:07 +0530</pubDate>
+      
+      <guid>https://805bluebell.github.io/blog/python-for-competitive-programming/</guid>
+      <description> Lessions learnt  The corner cases of testing cases will annoy you. In geeksforgeeks practice they gave back the case whenever you had a failure in submission. Actual cases in competitive programming will not have that luxury. You&amp;rsquo;ll not have that kind of cushion there. Try to make your own corner cases.  </description>
+    </item>
     
     <item>
       <title>Ditch List, use Dict in Python</title>
