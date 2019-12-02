@@ -20,15 +20,5 @@
       <description>Second post</description>
     </item>
     
-    <item>
-      <title>First Post</title>
-      <link>https://805bluebell.github.io/blog/first-post/</link>
-      <pubDate>Tue, 19 Nov 2019 11:56:35 +0530</pubDate>
-      
-      <guid>https://805bluebell.github.io/blog/first-post/</guid>
-      <description>Data
-baseurl = &amp;quot;/&amp;quot; theme = &amp;quot;casper-two&amp;quot; languageCode = &amp;quot;en-US&amp;quot; disqusShortname = &amp;quot;&amp;quot; paginate = 6 #SectionPagesMenu = &amp;quot;main&amp;quot; [params] title = &amp;quot;Hugo Casper Two&amp;quot; subtitle = &amp;quot;Port of Casper 2.x for Hugo&amp;quot; cover = &amp;quot;img/blog-cover.jpg&amp;quot; description = &amp;quot;Here is a description of your site.&amp;quot; metaDescription = &amp;quot;&amp;quot; googleAnalytics = &amp;quot;&amp;quot; customCSS = [] RSSLink = &amp;quot;&amp;quot; twitterName = &amp;quot;faketryghost&amp;quot; fbName = &amp;quot;fakeghost&amp;quot; githubName = &amp;quot;eueung&amp;quot; logo = &amp;quot;hugo-logo.png&amp;quot; orgName = &amp;quot;EM&amp;quot; orgWebsite = &amp;quot;https://www.</description>
-    </item>
-    
   </channel>
 </rss>

@@ -1,5 +1,5 @@
 baseurl         = "https://805bluebell.github.io/blog/"
-theme           = "casper-two"
+theme           = "hugo-casper-two"
 publishDir      = "docs"
 languageCode    = "en-US"
 disqusShortname = ""
@@ -7,11 +7,11 @@ paginate        = 6
 #SectionPagesMenu = "main"
 
 [params]
-  title       = "Hugo Casper Two"
-  subtitle    = "Port of Casper 2.x for Hugo"
+  title       = "Another blog"
+  subtitle    = "Flowing thoughts of restless mind"
 
-  cover       = "img/blog-cover.jpg"
-  description = "Here is a description of your site."
+  cover       = "img/branches-cold-conifers.jpg"
+  description = "Various ideas written with best of wits amassed"
   metaDescription = ""
   googleAnalytics = ""
   customCSS = []
@@ -22,17 +22,17 @@ paginate        = 6
   githubName = "805bluebell"
 
   logo = "hugo-logo.png"
-  orgName = "EM"
-  orgWebsite = "https://www.telematika.org"
-  orgDescription = "Here is a description placeholder for your org"
+  orgName = "PK"
+  orgWebsite = "https://805bluebell.github.io/blog"
+  orgDescription = "The one man army"
 
-  author = "EM"
-  authorAvatar = "img/ghost-icon.png"
-  authorLocation = "Bandung, ID"
-  authorWebsite = "https://eueung.github.io"
-  authorDescription = "Describe yourself.."
+  author = "Pankaj Kumar"
+  authorAvatar = "img/profile-pic.jpg"
+  authorLocation = "Mumbai, India"
+  authorWebsite = "https://805bluebell.github.io/"
+  authorDescription = "Aspiring software engineer"
 
-  pageNotFoundTitle = "404 - Page not found"
+  pageNotFoundTitle = "404 - Oh snap !"
 
   #casper or caspertwo
   singleViewStyle = "casper"
@@ -46,16 +46,16 @@ paginate        = 6
   weight = 200
 
 [[menu.main]]
-  name = "Projects"
-  url = "/tags/projects/"
+  name = "Journey"
+  url = "/categories/journey/"
   weight = 100
 
 [[menu.main]]
-  name = "Food"
-  url = "/categories/food/"
+  name = "Technology"
+  url = "/categories/technology/"
   weight = 99
 
 [[menu.main]]
-  name = "External"
-  url = "https://google.com/"
+  name = "About Me"
+  url = "https://805bluebell.github.io/"
   weight = 95
