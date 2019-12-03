@@ -5,10 +5,12 @@ languageCode    = "en-US"
 disqusShortname = ""
 paginate        = 6
 #SectionPagesMenu = "main"
+canonifyurls    = true
 
 [params]
   title       = "Another blog"
   subtitle    = "Flowing thoughts of restless mind"
+  copyright   = "© 2019"
 
   cover       = "img/branches-cold-conifers.jpg"
   description = "Various ideas written with best of wits amassed"
@@ -25,6 +27,8 @@ paginate        = 6
   orgName = "PK"
   orgWebsite = "https://805bluebell.github.io/blog"
   orgDescription = "The one man army"
+
+  showSupport = true
 
   author = "Pankaj Kumar"
   authorAvatar = "img/profile-pic.jpg"
