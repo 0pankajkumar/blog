@@ -1,4 +1,4 @@
-baseurl         = "/"
+baseurl         = "https://805bluebell.github.io/blog/"
 theme           = "hugo-casper-two"
 publishDir      = "docs"
 languageCode    = "en-US"
@@ -8,40 +8,38 @@ paginate        = 6
 canonifyurls    = true
 
 [params]
-  title       = "Hugo Casper Two"
-  subtitle    = "Port of Casper 2.x for Hugo"
-  copyright   = "© 2018"
+  title       = "Another blog"
+  subtitle    = "Flowing thoughts of restless mind"
+  copyright   = "© 2019"
 
-  cover       = "img/blog-cover.jpg"
-  description = "Here is a description of your site."
+  cover       = "img/branches-cold-conifers.jpg"
+  description = "Various ideas written with best of wits amassed"
   metaDescription = ""
   googleAnalytics = ""
   customCSS = []
   RSSLink = ""
 
-  twitterName = "faketryghost"
-  fbName = "fakeghost"
-  githubName = "eueung"
-  linkedinName = "eueung"
-  mediumName = ""
+  twitterName = "0pankajkumar"
+  fbName = "pankajwillkillu"
+  githubName = "805bluebell"
 
   logo = "hugo-logo.png"
-  orgName = "EM"
-  orgWebsite = "https://www.telematika.org"
-  orgDescription = "Here is a description placeholder for your org"
+  orgName = "PK"
+  orgWebsite = "https://805bluebell.github.io/blog"
+  orgDescription = "The one man army"
 
   showSupport = true
 
-  author = "EM"
-  authorAvatar = "img/ghost-icon.png"
-  authorLocation = "Bandung, ID"
-  authorWebsite = "https://eueung.github.io"
-  authorDescription = "Your description here"
+  author = "Pankaj Kumar"
+  authorAvatar = "img/profile-pic.jpg"
+  authorLocation = "Mumbai, India"
+  authorWebsite = "https://805bluebell.github.io/"
+  authorDescription = "Aspiring software engineer"
 
-  pageNotFoundTitle = "404 - Page not found"
+  pageNotFoundTitle = "404 - Oh snap !"
 
   #casper or caspertwo
-  singleViewStyle = "casper"
+  singleViewStyle = "caspertwo"
 
 [permalinks]
   post = "/post/:slug/"
@@ -52,18 +50,18 @@ canonifyurls    = true
   weight = 200
 
 [[menu.main]]
-  name = "Go"
-  url = "/tags/golang/"
+  name = "Journey"
+  url = "/categories/journey/"
   weight = 100
 
 [[menu.main]]
-  name = "Categories"
-  url = "/categories/"
+  name = "Technology"
+  url = "/categories/technology/"
   weight = 99
 
 [[menu.main]]
-  name = "External"
-  url = "https://google.com/"
+  name = "About Me"
+  url = "https://805bluebell.github.io/"
   weight = 95
 
 

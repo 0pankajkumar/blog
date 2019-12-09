@@ -2,93 +2,93 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on </title>
-    <link>/tags/</link>
+    <link>https://805bluebell.github.io/blog/tags/</link>
     <description>Recent content in Tags on </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
     <lastBuildDate>Mon, 09 Dec 2019 10:12:54 +0530</lastBuildDate>
     
-	<atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://805bluebell.github.io/blog/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>c&#43;&#43;</title>
-      <link>/tags/c&#43;&#43;/</link>
+      <link>https://805bluebell.github.io/blog/tags/c&#43;&#43;/</link>
       <pubDate>Mon, 09 Dec 2019 10:12:54 +0530</pubDate>
       
-      <guid>/tags/c&#43;&#43;/</guid>
+      <guid>https://805bluebell.github.io/blog/tags/c&#43;&#43;/</guid>
       <description></description>
     </item>
     
     <item>
       <title>python</title>
-      <link>/tags/python/</link>
+      <link>https://805bluebell.github.io/blog/tags/python/</link>
       <pubDate>Mon, 09 Dec 2019 10:12:54 +0530</pubDate>
       
-      <guid>/tags/python/</guid>
+      <guid>https://805bluebell.github.io/blog/tags/python/</guid>
       <description></description>
     </item>
     
     <item>
       <title>threads</title>
-      <link>/tags/threads/</link>
+      <link>https://805bluebell.github.io/blog/tags/threads/</link>
       <pubDate>Mon, 09 Dec 2019 10:12:54 +0530</pubDate>
       
-      <guid>/tags/threads/</guid>
+      <guid>https://805bluebell.github.io/blog/tags/threads/</guid>
       <description></description>
     </item>
     
     <item>
       <title>coding competitions</title>
-      <link>/tags/coding-competitions/</link>
+      <link>https://805bluebell.github.io/blog/tags/coding-competitions/</link>
       <pubDate>Tue, 26 Nov 2019 10:14:07 +0530</pubDate>
       
-      <guid>/tags/coding-competitions/</guid>
+      <guid>https://805bluebell.github.io/blog/tags/coding-competitions/</guid>
       <description></description>
     </item>
     
     <item>
       <title>competitive programming</title>
-      <link>/tags/competitive-programming/</link>
+      <link>https://805bluebell.github.io/blog/tags/competitive-programming/</link>
       <pubDate>Tue, 26 Nov 2019 10:14:07 +0530</pubDate>
       
-      <guid>/tags/competitive-programming/</guid>
+      <guid>https://805bluebell.github.io/blog/tags/competitive-programming/</guid>
       <description></description>
     </item>
     
     <item>
       <title>dict</title>
-      <link>/tags/dict/</link>
+      <link>https://805bluebell.github.io/blog/tags/dict/</link>
       <pubDate>Mon, 04 Nov 2019 11:56:35 +0530</pubDate>
       
-      <guid>/tags/dict/</guid>
+      <guid>https://805bluebell.github.io/blog/tags/dict/</guid>
       <description></description>
     </item>
     
     <item>
       <title>hash</title>
-      <link>/tags/hash/</link>
+      <link>https://805bluebell.github.io/blog/tags/hash/</link>
       <pubDate>Mon, 04 Nov 2019 11:56:35 +0530</pubDate>
       
-      <guid>/tags/hash/</guid>
+      <guid>https://805bluebell.github.io/blog/tags/hash/</guid>
       <description></description>
     </item>
     
     <item>
       <title>list</title>
-      <link>/tags/list/</link>
+      <link>https://805bluebell.github.io/blog/tags/list/</link>
       <pubDate>Mon, 04 Nov 2019 11:56:35 +0530</pubDate>
       
-      <guid>/tags/list/</guid>
+      <guid>https://805bluebell.github.io/blog/tags/list/</guid>
       <description></description>
     </item>
     
     <item>
       <title>codechef</title>
-      <link>/tags/codechef/</link>
+      <link>https://805bluebell.github.io/blog/tags/codechef/</link>
       <pubDate>Mon, 21 Oct 2019 10:16:17 +0530</pubDate>
       
-      <guid>/tags/codechef/</guid>
+      <guid>https://805bluebell.github.io/blog/tags/codechef/</guid>
       <description></description>
     </item>
     
