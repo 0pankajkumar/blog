@@ -1,5 +1,6 @@
 baseurl         = "/"
 theme           = "hugo-casper-two"
+publishDir      = "docs"
 languageCode    = "en-US"
 disqusShortname = ""
 paginate        = 6

@@ -3,97 +3,107 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://805bluebell.github.io/blog/</loc>
+    <loc>/</loc>
+    <lastmod>2019-12-09T10:12:54+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/c&#43;&#43;/</loc>
+    <lastmod>2019-12-09T10:12:54+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>/categories/</loc>
+    <lastmod>2019-12-09T10:12:54+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/multithreading-in-c-python/</loc>
+    <lastmod>2019-12-09T10:12:54+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/</loc>
+    <lastmod>2019-12-09T10:12:54+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>/categories/programming/</loc>
+    <lastmod>2019-12-09T10:12:54+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/python/</loc>
+    <lastmod>2019-12-09T10:12:54+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/</loc>
+    <lastmod>2019-12-09T10:12:54+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>/categories/technology/</loc>
+    <lastmod>2019-12-09T10:12:54+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/threads/</loc>
+    <lastmod>2019-12-09T10:12:54+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>/categories/journey/</loc>
     <lastmod>2019-11-26T10:14:16+05:30</lastmod>
   </url>
   
   <url>
-    <loc>https://805bluebell.github.io/blog/categories/</loc>
+    <loc>/post/journey-1/</loc>
     <lastmod>2019-11-26T10:14:16+05:30</lastmod>
   </url>
   
   <url>
-    <loc>https://805bluebell.github.io/blog/categories/journey/</loc>
-    <lastmod>2019-11-26T10:14:16+05:30</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://805bluebell.github.io/blog/post/journey-1/</loc>
-    <lastmod>2019-11-26T10:14:16+05:30</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://805bluebell.github.io/blog/post/</loc>
-    <lastmod>2019-11-26T10:14:16+05:30</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://805bluebell.github.io/blog/tags/coding-competitions/</loc>
+    <loc>/tags/coding-competitions/</loc>
     <lastmod>2019-11-26T10:14:07+05:30</lastmod>
   </url>
   
   <url>
-    <loc>https://805bluebell.github.io/blog/tags/competitive-programming/</loc>
+    <loc>/tags/competitive-programming/</loc>
     <lastmod>2019-11-26T10:14:07+05:30</lastmod>
   </url>
   
   <url>
-    <loc>https://805bluebell.github.io/blog/post/lessions-of-programming-i/</loc>
+    <loc>/post/lessions-of-programming-i/</loc>
     <lastmod>2019-11-26T10:14:07+05:30</lastmod>
   </url>
   
   <url>
-    <loc>https://805bluebell.github.io/blog/categories/programming/</loc>
-    <lastmod>2019-11-26T10:14:07+05:30</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://805bluebell.github.io/blog/tags/</loc>
-    <lastmod>2019-11-26T10:14:07+05:30</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://805bluebell.github.io/blog/categories/technology/</loc>
-    <lastmod>2019-11-26T10:14:07+05:30</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://805bluebell.github.io/blog/tags/dict/</loc>
+    <loc>/tags/dict/</loc>
     <lastmod>2019-11-04T11:56:35+05:30</lastmod>
   </url>
   
   <url>
-    <loc>https://805bluebell.github.io/blog/post/ditch-list-use-dict-in-python/</loc>
+    <loc>/post/ditch-list-use-dict-in-python/</loc>
     <lastmod>2019-11-04T11:56:35+05:30</lastmod>
   </url>
   
   <url>
-    <loc>https://805bluebell.github.io/blog/tags/hash/</loc>
+    <loc>/tags/hash/</loc>
     <lastmod>2019-11-04T11:56:35+05:30</lastmod>
   </url>
   
   <url>
-    <loc>https://805bluebell.github.io/blog/tags/list/</loc>
+    <loc>/tags/list/</loc>
     <lastmod>2019-11-04T11:56:35+05:30</lastmod>
   </url>
   
   <url>
-    <loc>https://805bluebell.github.io/blog/tags/python/</loc>
-    <lastmod>2019-11-04T11:56:35+05:30</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://805bluebell.github.io/blog/tags/c&#43;&#43;/</loc>
+    <loc>/tags/codechef/</loc>
     <lastmod>2019-10-21T10:16:17+05:30</lastmod>
   </url>
   
   <url>
-    <loc>https://805bluebell.github.io/blog/tags/codechef/</loc>
-    <lastmod>2019-10-21T10:16:17+05:30</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://805bluebell.github.io/blog/post/python-for-competitive-programming/</loc>
+    <loc>/post/python-for-competitive-programming/</loc>
     <lastmod>2019-10-21T10:16:17+05:30</lastmod>
   </url>
   
