@@ -1,6 +1,6 @@
-baseurl         = "https://805bluebell.github.io/blog/"
+baseurl         = "https://805bluebell.github.io/"
 theme           = "kross-hugo"
-publishDir      = "docs"
+publishDir      = "public"
 languageCode    = "en-US"
 disqusShortname = ""
 summaryLength = "10"
