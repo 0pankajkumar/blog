@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>/</loc>
+    <lastmod>2019-12-09T10:12:54+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/c&#43;&#43;/</loc>
+    <lastmod>2019-12-09T10:12:54+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>/categories/</loc>
+    <lastmod>2019-12-09T10:12:54+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/multithreading-in-c-python/</loc>
+    <lastmod>2019-12-09T10:12:54+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/</loc>
+    <lastmod>2019-12-09T10:12:54+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>/categories/programming/</loc>
+    <lastmod>2019-12-09T10:12:54+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/python/</loc>
+    <lastmod>2019-12-09T10:12:54+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/</loc>
+    <lastmod>2019-12-09T10:12:54+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>/categories/technology/</loc>
+    <lastmod>2019-12-09T10:12:54+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/threads/</loc>
+    <lastmod>2019-12-09T10:12:54+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>/categories/journey/</loc>
+    <lastmod>2019-11-26T10:14:16+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/journey-1/</loc>
+    <lastmod>2019-11-26T10:14:16+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/coding-competitions/</loc>
+    <lastmod>2019-11-26T10:14:07+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/competitive-programming/</loc>
+    <lastmod>2019-11-26T10:14:07+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/lessions-of-programming-i/</loc>
+    <lastmod>2019-11-26T10:14:07+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/dict/</loc>
+    <lastmod>2019-11-04T11:56:35+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/ditch-list-use-dict-in-python/</loc>
+    <lastmod>2019-11-04T11:56:35+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/hash/</loc>
+    <lastmod>2019-11-04T11:56:35+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/list/</loc>
+    <lastmod>2019-11-04T11:56:35+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/codechef/</loc>
+    <lastmod>2019-10-21T10:16:17+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/python-for-competitive-programming/</loc>
+    <lastmod>2019-10-21T10:16:17+05:30</lastmod>
+  </url>
+  
+</urlset>
