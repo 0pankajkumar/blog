@@ -1,4 +1,4 @@
-baseurl         = "https://805bluebell.github.io/"
+baseurl         = "https://805bluebell.github.io"
 theme           = "kross-hugo"
 publishDir      = "public"
 languageCode    = "en-US"

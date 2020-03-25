@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>competitive programming on </title>
+    <link>https://805bluebell.github.io/tags/competitive-programming/</link>
+    <description>Recent content in competitive programming on </description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-US</language>
+    <lastBuildDate>Tue, 26 Nov 2019 10:14:07 +0530</lastBuildDate>
+    
+	<atom:link href="https://805bluebell.github.io/tags/competitive-programming/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Lessions of Programming - I</title>
+      <link>https://805bluebell.github.io/post/lessions-of-programming-1/</link>
+      <pubDate>Tue, 26 Nov 2019 10:14:07 +0530</pubDate>
+      
+      <guid>https://805bluebell.github.io/post/lessions-of-programming-1/</guid>
+      <description>Lessions learnt  The corner cases of testing cases will annoy you.</description>
+    </item>
+    
+    <item>
+      <title>Python for competitive programming</title>
+      <link>https://805bluebell.github.io/post/second-post/</link>
+      <pubDate>Mon, 21 Oct 2019 10:16:17 +0530</pubDate>
+      
+      <guid>https://805bluebell.github.io/post/second-post/</guid>
+      <description>My first Cookoff Last night I was participating in CodeChef October Cookoff for the first time.</description>
+    </item>
+    
+  </channel>
+</rss>
